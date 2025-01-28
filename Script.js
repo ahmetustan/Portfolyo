@@ -21,7 +21,7 @@ function updateClock() {
         title: "Alkol Ürünlerinin Fotoğraf Çekimi",
         description: "Bu projede İsveçli bir işverenime 100 adet Alkol ürünlerinin fotoğraf çekimini yaptım...",
         image: "İmage/IMG_3178.JPG",  
-        link: "detay.html"
+        link: "detay.html",
       },
       project3: {
         title: "Alkol Ürünlerinin Fotoğraf Çekimi",
